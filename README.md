@@ -1,0 +1,3 @@
+# Streaming LLMs with Streamlit and Groq
+
+This project served as a learning experience, where I tested Streamlit's capabilities and integrate them with Groq's high-performance hardware and the Mixtral-8x7b-32768 model to build a dynamic user chat interface. The project's primary goal was to understand the process of combining these technologies and learn how they can be used to create fast, efficient, and powerful natural language processing applications.
